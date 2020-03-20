@@ -9,3 +9,5 @@
 ### Here is a beginners tutorial on how to use Github. 
 ### It doesn't go into how to use it with Matlab, but it does go over what the common commands do.
 ### [![Git & GitHub Crash Course For Beginners](http://img.youtube.com/vi/SWYqp7iY_Tc/0.jpg)](http://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+# ![alt text](https://github.com/Gregory-Humble/ECIMH_Git_Tutorial/blob/master/hackers.jpg "ACTUAL IMAGE OF ECIMH STAFF LEARNING TO CODE. From left to right: Caley, Greg, Aleks, Kate G")
