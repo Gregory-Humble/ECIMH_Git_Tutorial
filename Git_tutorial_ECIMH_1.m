@@ -19,6 +19,36 @@ https://gitforwindows.org/
 % to download git for Mac
 https://git-scm.com/doc
 
+
+%% create github account
+% once you have downloaded Git, go online and create a github account.
+% Create an easy to remember username.
+% My github account is located here: 
+% https://github.com/Gregory-Humble
+
+%% Go ahead and try to clone one of my repositories
+% create a new folder on the desktop, call it GIT_CLONE_TRIAL. 
+% navigate to this folder within matlab. Make sure there is nothing inside
+% this folder as it needs to be empty in order to clone (or create)
+% repositories
+% uncomment one of these repositories, highlight, then click evaluate
+% selection, alterantively you can just copy them into the command window
+% and press enter
+
+%!git clone https://github.com/Gregory-Humble/EEG_Preprocessing.git
+
+%!git clone https://github.com/Gregory-Humble/TMS_EEG.git
+
+%!git clone https://github.com/Gregory-Humble/ECIMH_Git_Tutorial.git
+
+%!git clone https://github.com/Gregory-Humble/granger_prediction.git
+
+%Congratulations you have just cloned your first repository!!
+
+
+%% creating your very own repository
+% It is best to do this from within your github account online.
+
 %% edit .gitattributes
 %Uncomment the following line, highlight, right click, then click evaluate
 %selection. Click ok to create file.
@@ -51,7 +81,5 @@ https://git-scm.com/doc
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
 
-
-%% create github account
 
 
