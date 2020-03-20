@@ -11,10 +11,10 @@ https://gitforwindows.org/
 % In the section on adjusting your PATH, choose the install option to Use
 % Git from the Windows Command Prompt. This option adds Git to your PATH
 % variable, so that MATLAB can communicate with Git.
+
 %In the section on configuring the line-ending conversions, choose the
 %option Checkout as-is, commit as-is to avoid converting any line endings
-%in files. To avoid corrupting binary files, before using Git to merge
-%branches, register the binary files.
+%in files.
 
 % to download git for Mac
 https://git-scm.com/doc
@@ -49,7 +49,8 @@ https://git-scm.com/doc
 %% creating your very own repository
 % It is best to do this from within your github account online.
 
-%% edit .gitattributes
+%% edit .gitattributes - To avoid corrupting binary files, before using Git to merge branches, register the binary files.
+
 %Uncomment the following line, highlight, right click, then click evaluate
 %selection. Click ok to create file.
 
