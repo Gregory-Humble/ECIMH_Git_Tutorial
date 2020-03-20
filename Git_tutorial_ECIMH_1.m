@@ -80,6 +80,3 @@ https://git-scm.com/doc
 *.pdf -crlf -diff -merge
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
-
-
-
