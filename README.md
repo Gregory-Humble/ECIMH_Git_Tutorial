@@ -14,3 +14,4 @@
 # ACTUAL IMAGE OF ECIMH STAFF LEARNING TO CODE. 
 ![alt text](https://github.com/Gregory-Humble/ECIMH_Git_Tutorial/blob/master/hackers.jpg "ACTUAL IMAGE OF ECIMH STAFF LEARNING TO CODE. From left to right: Caley, Greg, Aleks, Kate G")
 #### From left to right: Caley, Greg, Aleks, Kate G
+## thanks for coming!
